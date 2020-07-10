@@ -1,7 +1,7 @@
-# me
+# Good README
 
 ## Description
-- me 
+- homework with node.js 
 
 ## Table of Contents
 * [Installation](##Installation)
@@ -16,17 +16,17 @@
 - undefined
 
 ## Usage
-- me
+- nothing yet
 
 ## License
-![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)
+![GitHub license](https://img.shields.io/badge/License-GPL-blue.svg)
 
 ## Contributing 
-- me
+- nothing yet
 
 ## Tests
 - npm test
 
 ## Questions 
-- ![GitHub profile picture](me)
-- 
+- ![GitHub profile picture](me.jpg)
+- me@gmail.com

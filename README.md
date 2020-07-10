@@ -1,5 +1,6 @@
 # Node.js-README-Generator
 Using Node.js to build a quality README with information about the app
+!(video demo)[demo_video.mov]
 
 ## Table of Content
 - Objective
