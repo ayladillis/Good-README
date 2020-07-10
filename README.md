@@ -1,7 +1,7 @@
-# Ayla
+# Good README
 
 ## Description
-- hw 
+- homework with node.js 
 
 ## Table of Contents
 * [Instillation](##Instilation)
@@ -19,7 +19,7 @@
 - nothing
 
 ## License
-![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)]
+![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## Contributing 
 - nothing
@@ -29,4 +29,4 @@
 
 ## Questions 
 - ![GitHub profile picture](me.jpg)
-- asdfa.gmail
+- me@gmail.com
