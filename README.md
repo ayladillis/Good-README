@@ -1,7 +1,7 @@
-# Good README
+# Good README 
 
 ## Description
-- homework with node.js 
+- homework project using Node.js 
 
 ## Table of Contents
 * [Instillation](##Instilation)
