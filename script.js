@@ -102,7 +102,7 @@ var page =
 - ${usage}
 
 ## License
-![GitHub license](https://img.shields.io/badge/License-${license}-blue.svg)]
+![GitHub license](https://img.shields.io/badge/License-${license}-blue.svg)
 
 ## Contributing 
 - ${contributing}
