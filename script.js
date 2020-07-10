@@ -116,7 +116,7 @@ var page =
 `;
 
 fs.writeFile('Good_README.md', page, data, (err) => {
-    if (eff) throw err;
+    if (err) throw err;
     console.log('hallelujah!!!');
 })
 

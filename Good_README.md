@@ -1,7 +1,7 @@
-# 
+# me
 
 ## Description
--  
+- me 
 
 ## Table of Contents
 * [Installation](##Installation)
@@ -16,17 +16,17 @@
 - undefined
 
 ## Usage
-- 
+- me
 
 ## License
 ![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## Contributing 
-- 
+- me
 
 ## Tests
 - npm test
 
 ## Questions 
-- ![GitHub profile picture]()
+- ![GitHub profile picture](me)
 - 
