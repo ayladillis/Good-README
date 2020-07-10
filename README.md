@@ -1,32 +1,42 @@
-# Good README 
+# Node.js-README-Generator
+Using Node.js to build a quality README with information about the app
 
-## Description
-- homework project using Node.js 
+## Table of Content
+- Objective
+- Deploy Link
+- Getting Started
+- Code Highlights
+- Technology
+- License 
+- Author 
 
-## Table of Contents
-* [Instillation](##Instilation)
-* [Usage](##Usage)
-* [License](##License)
-* [Contributing](##Contributing)
-* [Tests](##Tests)
-* [Questions](##Questions)
+## Objectives
+Create an open source project that makes a quality README anyone can use, in will include a title, description, table of contents, instillation, usage, license, contributing, tests, questions and at least one badge. 
 
+## Deploy Link
+https://ayladillis.github.io/Node.js-and-ES6-Good-README-Generator/
 
-## Instillation 
-- npm i
+## Getting Started
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-## Usage
-- nothing
+```
+$ git clone git@github.com:ayladillis/Good-README.git
+ayladillis/Good-README.git
+$ cd ayladillis/Good-README.git
+```
+Then open in your preferred text editor:
+- [vim](https://www.vim.org/) 
+- [emmacs](https://www.gnu.org/software/emacs/)
+- [visual studio code](https://code.visualstudio.com/) 
 
-## License
-![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)
+## Code Highlight
 
-## Contributing 
-- nothing
+## Technology
+* [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScrip)
+* [Node.js](https://node.js.org/)
 
-## Tests
-- npm test
+## License 
 
-## Questions 
-- ![GitHub profile picture](me.jpg)
-- me@gmail.com
+## Authors 
+- [Ayla Dillis](https://github.com/ayladillis)
+- email: aayladillis@gmail.com

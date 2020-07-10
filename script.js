@@ -17,7 +17,7 @@ inquirer
         },
         {
             type: "list",
-            name: "instillation",
+            name: "installation ",
             message: "What command should be run to install dependencies?",
             choices: [
                 "npm i",
@@ -68,7 +68,7 @@ inquirer
     
         projectName = data.project;
         description = data.description;
-        instillation = data.instillation;
+        installation = data.installation ;
         usage = data.usage;
         license = data.license;
         contributing = data.contributing;
@@ -76,7 +76,7 @@ inquirer
         profilePicture = data.profilePicture;
         email = data.email;
 
-        console.log(projectName, description, instillation, usage, license, contributing, test, 
+        console.log(projectName, description, installation, usage, license, contributing, test, 
             profilePicture, email);
 
 
@@ -87,7 +87,7 @@ var page =
 - ${description} 
 
 ## Table of Contents
-* [Instillation](##Instilation)
+* [Installation](##Installation)
 * [Usage](##Usage)
 * [License](##License)
 * [Contributing](##Contributing)
@@ -95,8 +95,8 @@ var page =
 * [Questions](##Questions)
 
 
-## Instillation 
-- ${instillation}
+## Installation 
+- ${installation }
 
 ## Usage
 - ${usage}
@@ -115,7 +115,7 @@ var page =
 - ${email}
 `;
 
-fs.writeFile('README.md', page, data, (err) => {
+fs.writeFile('Good_README.md', page, data, (err) => {
     if (eff) throw err;
     console.log('hallelujah!!!');
 })
