@@ -1,7 +1,7 @@
 # Node.js-README-Generator
 Using Node.js to build a quality README with information about the app
 
-!(gif demo)[https://media.giphy.com/media/LSEGraQ2SjYyncVa6Z/giphy.gif]
+![gif demo](https://media.giphy.com/media/LSEGraQ2SjYyncVa6Z/giphy.gif)
 
 ## Table of Content
 - Objective
@@ -34,7 +34,7 @@ Then open in your preferred text editor:
 ## Code Highlight
 I used the .then function to call the promis
 
-!(code screenshot)[screenshot1.png]
+![code screenshot](screenshot1.png)
 
 
 ## Technology
