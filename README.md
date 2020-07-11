@@ -9,7 +9,6 @@ Using Node.js to build a quality README with information about the app
 - Getting Started
 - Code Highlights
 - Technology
-- License 
 - Author 
 
 ## Objectives
@@ -41,7 +40,6 @@ I used the .then function to call the promis
 * [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScrip)
 * [Node.js](https://node.js.org/)
 
-## License 
 
 ## Authors 
 - [Ayla Dillis](https://github.com/ayladillis)
