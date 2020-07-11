@@ -49,8 +49,9 @@ inquirer
             name: "test",
             message: "What command should be run to run tests?",
             choices: [
-                "npm test",
-                "browser test"
+                "jest",
+                "Chai",
+                "Mocha"
             ]
         },
         {

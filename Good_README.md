@@ -16,13 +16,13 @@
 - undefined
 
 ## Usage
-- nothing yet
+- nothing at the moment
 
 ## License
 ![GitHub license](https://img.shields.io/badge/License-GPL-blue.svg)
 
 ## Contributing 
-- nothing yet
+- 
 
 ## Tests
 - npm test
